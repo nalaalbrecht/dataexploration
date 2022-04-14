@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nala/DHBW_DataExploration/mlruns/0/92a74e6aceb9417f8172e6dd48175126/artifacts
+end_time: 1649669895199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 92a74e6aceb9417f8172e6dd48175126
+run_uuid: 92a74e6aceb9417f8172e6dd48175126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649669643467
+status: 3
+tags: []
+user_id: nala
